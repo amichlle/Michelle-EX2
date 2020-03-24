@@ -1,0 +1,172 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: absolute;
+	background-color: #ff6796;
+	width: 100%;
+	top:0;
+}
+/*slides*/
+#slides{
+	padding: 80px 0 40px;
+	background-color: #ff6796;
+	
+}
+.tslide{
+	font-family: 'Lobster', cursive;
+	color: #f4f4f4;
+	font-size: 60px;
+	margin-top: 80px;
+}
+.txt-white{
+	font-family: 'Open Sans', sans-serif;
+	color: #f4f4f4;
+	font-size: 14px;
+	margin-top: 20px;
+}
+.buttun{
+	background-color: #01BEFE;
+	padding: 10px 20px;
+	color: #f4f4f4;
+	border-radius: 20px;
+	margin-top: 400px;
+}
+.slides{
+	background-color: #FE8BAF;
+	padding: 30px;
+	border-radius: 1000px;
+	height: 400px;
+	width: 400px;
+}
+/*slides*/
+
+/*works*/
+#works{
+	padding: 50px 0 40px;
+}
+.tit-negro{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color: #444444;
+	font-size: 40px;
+}
+.circle{
+	background-color: #FFB7CD;
+	padding: 15px;
+	border-radius: 1000px;
+	width: 220px;
+	height: 220px;
+	margin: 20px 0;
+}
+/*works*/
+
+/*products*/
+#products{
+	background-color: #01BEFE;
+	padding: 40px;
+}
+.tit-blanco{
+	font-family: 'Lobster', cursive;
+	color: #fff;
+	text-align: center;
+	font-size: 40px;
+}
+.round{
+	border-radius: 10%;
+	align-content: center;
+	padding: 0 5%;
+}
+.ptitulo{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color: #444444;
+	font-size: 20px;
+	background-color: #FFFFFF;
+	border-radius: 15px 15px 0 0;
+	padding: 15% 5% 0;
+	margin: -10% -2% 0;
+}
+.ptext{
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 20px;
+	color: #444444;
+	font-size: 13px;
+	text-align: center;
+	background-color: #FFFFFF;
+	border-radius: 0 0 15px 15px;
+	padding: 0 5% 10%;
+	margin: 0 -2%;
+}
+/*products*/
+
+/*features*/
+#features{
+	background-color:  #FF6796;
+	padding: 80px 0;
+}
+.icon1{
+	color: #fff;
+	font-size: 50px;
+	padding: 0 11%;
+}
+.icon2{
+	color: #fff;
+	font-size: 50px;
+	padding: 0 17%;
+}
+.icon3{
+	color: #fff;
+	font-size: 50px;
+	padding: 0 13%;
+}
+#features p{
+	color: #fff;
+	font-size: 12px;
+	text-align: center;
+}
+.fsubs{
+	font-family: 'Lobster', cursive;
+	color: #fff;
+	font-size: 22px;
+	text-align: center;
+}
+/*features*/
+
+/*about*/
+#about{
+	padding: 80px 0 0;
+}
+#about p{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	padding-top: 80px;
+}
+/*about*/
+
+/*team*/
+#team{
+	background-color: #01BEFE;
+	padding: 80px 0;
+}
+#team p{
+	color: #fff;
+	text-align: center;
+}
+
+/*team*/
+
+footer{
+	background-color: #444444;
+	text-align: center;
+	color: #fff;
+	padding: 50px 0 10px;
+}
+
+
+
+
+
+
